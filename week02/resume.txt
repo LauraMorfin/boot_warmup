@@ -1,12 +1,12 @@
-Laura Morfin
+#Laura Morfin
 laura-morfin@my.codergv.org
 
-Work experience
+##Work experience
 Pharmacy Technician, Walgreens
 
-Intake Coordinator, Access Theraputics
+**Intake Coordinator, Access Theraputics**
 
 
-Education
-Everist Institute
+##Education
+**Everist Institute**
 Pharmacy Technician 2008
